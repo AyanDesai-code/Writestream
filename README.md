@@ -4,4 +4,4 @@
 
 <h3>Devs:</h3>
 
-<h4>Ayan Desai:</h4>  Ayan is a full stack developer with experience, in HTML, CSS, Javascript, ExpressJS, Postgres, Python, Django, Java, and GDscript but he specializes in back-end programing with python. He has completed numerous gamejams and projects with friends but this is his second solo project, Ayan is super exited to realease this project, which he has spent a few months developing, and perfecting.
+<h4>Ayan Desai:</h4>  <h5>Ayan is a full stack developer with experience, in HTML, CSS, Javascript,Postgres, Python, Django, Java, and GDscript but he specializes in back-end programing with python. This is his first solo project, which he will be developing along with another project. He is super exited to work on this project, which he expects will take a few months</h5>
